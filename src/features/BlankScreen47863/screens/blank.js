@@ -402,13 +402,9 @@ export class _Blank extends React.Component {
             justifyContent: "flex-start",
             alignItems: "stretch",
             alignContent: "stretch",
-            borderColor: "#000000",
+            borderColor: "#2046df",
             borderStyle: "solid",
-            borderWidth: 0,
-            borderLeftWidth: 0,
-            borderRightWidth: 0,
-            borderTopWidth: 0,
-            borderBottomWidth: 0,
+            borderWidth: 2,
             borderRadius: 0,
             backgroundSize: "auto"
           }}
