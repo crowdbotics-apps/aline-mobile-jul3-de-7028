@@ -24,7 +24,7 @@ export class _Blank extends React.Component {
     <View
       style={{
         width: "100%",
-        height: "100%",
+        height: "200%",
         marginLeft: 0,
         marginRight: 0,
         marginTop: 0,
@@ -61,7 +61,7 @@ export class _Blank extends React.Component {
       <View
         style={{
           width: "100%",
-          height: "100%",
+          height: "50%",
           marginLeft: 0,
           marginRight: 0,
           marginTop: 0,
@@ -238,7 +238,7 @@ export class _Blank extends React.Component {
       <View
         style={{
           width: "100%",
-          height: "100%",
+          height: "50%",
           marginLeft: 0,
           marginRight: 0,
           marginTop: 0,
@@ -259,8 +259,8 @@ export class _Blank extends React.Component {
           flexDirection: "column",
           flexWrap: "wrap",
           justifyContent: "flex-start",
-          alignItems: "stretch",
-          alignContent: "stretch",
+          alignItems: "flex-start",
+          alignContent: "flex-start",
           borderColor: "#000000",
           borderStyle: "solid",
           borderWidth: 0,
